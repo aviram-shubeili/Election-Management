@@ -1,2 +1,2 @@
-# Ex-1
-mtm Course - Ex-1
+# mtm Course (234124) Ex-1
+Implementation of map and an Election management system
